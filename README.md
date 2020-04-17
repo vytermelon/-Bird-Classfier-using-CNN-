@@ -18,3 +18,6 @@ Use "birddata.py" to convert images to arrays(64,64,3) x_train,y_train,x_test, y
 
 Step: Train and Test your model.
 "BIRDS.ipynb"
+
+trained model: "birdmodel.h5"
+-Vybhav,Ritwik,Maharshi

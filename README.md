@@ -20,4 +20,4 @@ Step: Train and Test your model.
 "BIRDS.ipynb"
 
 trained model: "birdmodel.h5"
--Vybhav,Ritwik,Maharshi
+
